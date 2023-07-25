@@ -8,6 +8,10 @@ bug 103
 
 <h1> Git project by pravallika</h1>
 <h2> git commands </h2>
+
+bug 101
+//logic for login ---------------- it is fixeed
+
 <p> git commands are praticing</p>
 <h1> Git project</h1>
 
