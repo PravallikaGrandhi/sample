@@ -1,8 +1,12 @@
 <html>
+
+
+
+
+
+<h1> Git project by pravallika</h1>
+<h2> git commands </h2>
 <p> git commands are praticing</p>
 <h1> Git project</h1>
-
-
-
 
 </html>
